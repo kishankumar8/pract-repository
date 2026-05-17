@@ -12,7 +12,7 @@ Day-by-day progress matters more than perfection.
 This repository is part of my daily consistency journey where I practice programming, DSA, problem-solving, Git/GitHub workflows, and small development experiments. 
 
 Every commit represents 
-learning, 
+learning
 improvement and
 discipline. 
 
