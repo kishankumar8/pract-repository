@@ -15,6 +15,7 @@ Every commit represents
 
 ->learning
 ->improvement 
+
 ->discipline. 
 
 The goal is not just maintaining a streak, but building stronger coding habits and improving step by step through continuous practice.
