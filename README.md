@@ -24,6 +24,8 @@ The goal is not just maintaining a streak, but building stronger coding habits a
 Here’s a fun one:
 
 Honey never really spoils. 🍯
+
+
 Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old — and still safe to eat.
 
 That happens because honey has:
