@@ -35,6 +35,7 @@ That happens because honey has:
 * very low water content,
 * high acidity,
 * and natural antimicrobial properties.
+* 
 
 Bees basically invented nature’s perfect preservative.
 
