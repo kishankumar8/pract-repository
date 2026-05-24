@@ -1,7 +1,7 @@
 # demo-repository !
 
 
-this is the demo reposi
+this is the demo rep
 
 
 i use this repo like for message and rough lines only
