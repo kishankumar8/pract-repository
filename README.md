@@ -1,7 +1,7 @@
 # demo-repository !
 
 
-i use this repo like fo
+i use this repo like 
 
 
 Day-by-day progress matters more than perfection. 
