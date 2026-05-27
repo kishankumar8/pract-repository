@@ -2,7 +2,7 @@
 
 
 
-i use this repo like for me
+i use this repo like for m
 
 
 Day-by-day progress matters more than perfection. 
