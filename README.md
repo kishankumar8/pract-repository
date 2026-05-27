@@ -2,7 +2,7 @@
 
 
 
-i use this repo like for mess
+i use this repo like for mes
 
 
 Day-by-day progress matters more than perfection. 
