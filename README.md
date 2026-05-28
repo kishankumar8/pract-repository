@@ -1,7 +1,7 @@
 # demo-repository !
 
 
-i use 
+i us
 
 
 Day-by-day progress matters more than perfection. 
