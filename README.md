@@ -1,7 +1,7 @@
 # demo-repository !
 
 
-i use this repo li
+i use this repo 
 
 
 Day-by-day progress matters more than perfection. 
