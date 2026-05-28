@@ -1,7 +1,7 @@
 # demo-repository !
 
 
-i use this rep
+i use this r
 
 
 Day-by-day progress matters more than perfection. 
