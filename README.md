@@ -1,6 +1,6 @@
 # demo-repository !
 
-i u
+i 
 
 Day-by-day progress matters more than perfection. 
 
