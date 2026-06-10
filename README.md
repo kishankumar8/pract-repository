@@ -32,5 +32,4 @@ That happens because honey has:
 * and natural antimicrobial properties.
 * 
 
-Bees basically invented nature’s perfect preservative.
-
+Bees basically invented nature’s perfect preserva
