@@ -32,4 +32,3 @@ That happens because honey has:
 * and natural antimicrobial properties.
 * 
 
-B
