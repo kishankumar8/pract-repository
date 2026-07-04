@@ -32,4 +32,4 @@ That happens because honey has:
 * and natural antimicrobial properties.
 * 
 
-Bees basically i
+Bees basica
