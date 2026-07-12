@@ -29,6 +29,4 @@ That happens because honey has:
 
 * very low water content,
 * high acidity,
-* and natural antimicrobial properties.
-* 
-
+* and natural antimicrobial propert
