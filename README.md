@@ -29,4 +29,4 @@ That happens because honey has:
 
 * very low water content,
 * high acidity,
-* an
+  
