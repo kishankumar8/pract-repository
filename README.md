@@ -27,4 +27,3 @@ Archaeologists have found pots of honey in ancient Egyptian tombs that are over 
 
 That happens because honey has:
 
-* 
