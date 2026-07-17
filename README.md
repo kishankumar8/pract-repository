@@ -17,7 +17,7 @@ This repository is part of my daily consistency journey where I practice program
 ->execution
 
 The goal is not just maintaining a streak, but building stronger coding habits and improving step by step through continuous practice.
-Here’s a fun 
+Here’s a 
 
 
 Honey never really spoils. 🍯
